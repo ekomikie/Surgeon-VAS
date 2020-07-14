@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* HEADER */
+
+.header{
+    background-color: #4F80FF;
+    overflow: hidden;
+    
+}
+
+.surgeon-bg-image{
+    background-image: url("../images/main-pic-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top, right;
+     overflow-x: hidden;
+
+    
+    height: 600px;
+}
+
+.left-box{
+    margin-top: 60px;
+}
+
+.coming-soon{
+    font-size: 18px;
+}
+
+.sub-butn{
+    background-color: #2C3E50;
+    color: white;
+
+}
+
+.count-down{
+    background:#4F80FF;
+}
+
